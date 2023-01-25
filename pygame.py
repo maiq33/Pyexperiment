@@ -24,3 +24,5 @@ def adivina_numero():
     # Si se agotaron las oportunidades y no se adivinó el número
     if not adivinado:
         print("Se te acabaron las oportunidades. El número era ", numero_a_adivinar)
+
+adivina_numero()
