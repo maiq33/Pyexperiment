@@ -1,4 +1,7 @@
+import pygame
 import random
+
+pygame.init()git status
 
 def adivina_numero():
     # Elije un número al azar entre 1 y 100
